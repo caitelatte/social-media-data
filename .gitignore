@@ -1,0 +1,4 @@
+archive_dir/
+results/
+.ipynb_checkpoints/
+__pycache__/
